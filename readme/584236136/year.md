@@ -1,7 +1,7 @@
 ## [🔙 counter](https://github.com/papa-boynton/counter)
 
-### :octocat: [System-Theme](https://github.com/papa-boynton/System-Theme)
-![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/520295942/large/year.png)
+### :octocat: [VPN_Status](https://github.com/papa-boynton/VPN_Status)
+![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/584236136/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>27</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/520295942/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/520295942/week.md)
+[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/584236136/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/584236136/week.md)
 ```readme
-[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/520295942/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/520295942/week.md)
+[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/584236136/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/584236136/week.md)
 ```
 ### Header
-# System-Theme [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/520295942/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/520295942/year.md)
+# VPN_Status [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
 ```readme
-# System-Theme [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/520295942/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/520295942/year.md)
+# VPN_Status [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

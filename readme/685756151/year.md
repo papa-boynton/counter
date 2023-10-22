@@ -1,7 +1,7 @@
 ## [🔙 counter](https://github.com/papa-boynton/counter)
 
-### :octocat: [System-Theme](https://github.com/papa-boynton/System-Theme)
-![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/520295942/large/year.png)
+### :octocat: [Center-Infos](https://github.com/papa-boynton/Center-Infos)
+![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/685756151/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>14</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/22 12:53 AM UTC</i></small>
+<small><i>Last updated on 2023/10/22 12:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/520295942/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/520295942/week.md)
+[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/685756151/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/685756151/week.md)
 ```readme
-[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/520295942/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/520295942/week.md)
+[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/685756151/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/685756151/week.md)
 ```
 ### Header
-# System-Theme [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/520295942/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/520295942/year.md)
+# Center-Infos [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
 ```readme
-# System-Theme [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/520295942/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/520295942/year.md)
+# Center-Infos [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
