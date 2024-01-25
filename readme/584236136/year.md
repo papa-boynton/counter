@@ -1,6 +1,6 @@
 ## [🔙 counter](https://github.com/papa-boynton/counter)
 
-### :octocat: [VPN_Status](https://github.com/papa-boynton/VPN_Status)
+### :octocat: [VPN_Status-Mike_Boynton](https://github.com/papa-boynton/VPN_Status-Mike_Boynton)
 ![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/584236136/large/year.png)
 
 <details>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/24 6:17 PM UTC</i></small>
+<small><i>Last updated on 2024/1/25 1:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/584236136/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/584236136/week.md)
 ```
 ### Header
-# VPN_Status [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
+# VPN_Status-Mike_Boynton [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
 ```readme
-# VPN_Status [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
+# VPN_Status-Mike_Boynton [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/584236136/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/584236136/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

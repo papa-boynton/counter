@@ -1,6 +1,6 @@
 ## [🔙 counter](https://github.com/papa-boynton/counter)
 
-### :octocat: [Center-Infos](https://github.com/papa-boynton/Center-Infos)
+### :octocat: [Center_Infos-TheyCallMePapa](https://github.com/papa-boynton/Center_Infos-TheyCallMePapa)
 ![Image of counter](https://github.com/papa-boynton/counter/blob/master/graph/685756151/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>15</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>36</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/1/24 6:17 PM UTC</i></small>
+<small><i>Last updated on 2024/1/25 1:05 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/685756151/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/685756151/week.md)
 ```
 ### Header
-# Center-Infos [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
+# Center_Infos-TheyCallMePapa [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
 ```readme
-# Center-Infos [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
+# Center_Infos-TheyCallMePapa [<img alt="Image of counter" src="https://github.com/papa-boynton/counter/blob/master/graph/685756151/small/year.png" height="20">](https://github.com/papa-boynton/counter/blob/master/readme/685756151/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
