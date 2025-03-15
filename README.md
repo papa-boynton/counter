@@ -37,22 +37,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/papa-boynton/counter/tree/master/readme/490698767/year.md">
-				SearchBar-Mike_Boynton
-			</a>
-		</td>
-		<td>
-			2025/3/13 1:23 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/papa-boynton/counter/raw/master/graph/490698767/small/year.png" height="20"> 19
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/papa-boynton/counter/tree/master/readme/584236136/year.md">
 				VPN_Status-Mike_Boynton
 			</a>
@@ -101,7 +85,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/15 12:32 PM UTC</i></small>
+<small><i>Last updated on 2025/3/15 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
