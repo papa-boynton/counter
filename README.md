@@ -53,22 +53,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/papa-boynton/counter/tree/master/readme/685756151/year.md">
-				Center_Infos-TheyCallMePapa
-			</a>
-		</td>
-		<td>
-			2026/8/15 1:13 AM UTC
-		</td>
-		<td>
-			139
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/papa-boynton/counter/raw/master/graph/685756151/small/year.png" height="20"> 294
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/papa-boynton/counter/tree/master/readme/564028308/year.md">
 				Theme_Me-TheyCallMePapa
 			</a>
@@ -85,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 12:42 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 6:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
